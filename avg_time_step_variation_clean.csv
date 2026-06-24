@@ -1,0 +1,16 @@
+variation,process_step,Calculated_Time
+Control,confirm,21.68420451299629
+Control,start,50.18020080658713
+Control,step_1,44.3679385196171
+Control,step_2,86.46098277060959
+Control,step_3,122.12507128756306
+Test,confirm,41.98048363268797
+Test,start,50.42106101923009
+Test,step_1,55.71574494428395
+Test,step_2,84.82655135693311
+Test,step_3,120.05051363250173
+results not included,confirm,31.905319639972305
+results not included,start,51.47224497662989
+results not included,step_1,51.510888565185724
+results not included,step_2,86.62363412054988
+results not included,step_3,120.22536870135191
