@@ -178,6 +178,22 @@ The dashboard helps stakeholders quickly understand the experiment outcomes and 
 The redesigned interface demonstrated statistically significant improvements in completion rates, error reduction, and overall efficiency. However, the practical business impact remains relatively modest. Further optimization and additional experimentation are recommended before implementing a full-scale rollout.
 
 ---
+## Project Management
+
+The project was planned, organized, and tracked using Trello to manage tasks, timelines, responsibilities, and project progress throughout the analysis.
+
+**Trello Board:**
+[Vanguard A/B Test Project Board](https://trello.com/b/W1HJvsvx/vanguard-a-b-test-project?utm_source=chatgpt.com)
+
+The board includes:
+
+* Project planning and milestones
+* Task assignments for team members
+* Data cleaning and EDA activities
+* Hypothesis testing tasks
+* Tableau dashboard development
+* Presentation preparation and final recommendations
+
 
 ## Team Members
 
