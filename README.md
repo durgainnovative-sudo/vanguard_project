@@ -199,7 +199,7 @@ The board includes:
 
 **Durgadevi Nagarajan (DD)**
 
-**Saurabh**
+**Saurabh Diwakar**
 
 ---
 
