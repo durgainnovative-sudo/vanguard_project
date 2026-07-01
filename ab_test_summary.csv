@@ -1,0 +1,4 @@
+variation,Participants_KPI,Completed_Metric,Completion_Rate_%,Error_Rate_%,Avg_Time_Per_Step_sec
+Control,23532,15434,65.59,6.82,63.48
+Test,26968,18687,69.29,9.22,66.49
+results not included,20109,13679,68.02,8.1,65.5
